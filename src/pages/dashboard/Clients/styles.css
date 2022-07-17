@@ -1,0 +1,89 @@
+.btn-light{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+}
+p{
+    position:absolute;
+    left: 0%;
+    top: 2%;
+}
+@media screen and (max-width: 1024px) {
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 15%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 15%;
+    }
+    p{
+        position:absolute;
+        left: 0%;
+        top: 2%;
+    }
+}
+  
+@media screen and (max-width: 540px) {
+    .client{
+        width: 100%;
+    }
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 20%;
+    }
+    p{
+        position:absolute;
+        left: 0%;
+        top: 2%;
+    }
+}
+  
+  @media screen and (max-width: 411px) {
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 20%;
+    }
+    p{
+        position:absolute;
+        left: 0%;
+        top: 2%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 375px) {
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 20%;
+    }
+    p{
+        position:absolute;
+        left: 0%;
+        top: 2%;
+    }
+    }
+  
+  
+    
+  @media screen and (max-width: 280px) {
+    .btn-light{
+        position: absolute;
+        left: 60%;
+        top: 20%;
+    }
+    p{
+        position:absolute;
+        left: 0%;
+        top: 2%;
+    }
+  
+  
+    }
